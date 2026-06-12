@@ -1,2 +1,0 @@
-# calculator-applection
-لحساب الارقام 
