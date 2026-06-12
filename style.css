@@ -1,0 +1,27 @@
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 10px;
+}
+
+button {
+    height: 80px;
+    font-size: 22px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#display {
+    width: 100%;
+    height: 80px;
+    font-size: 30px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+body {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
